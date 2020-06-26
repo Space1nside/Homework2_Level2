@@ -67,7 +67,7 @@ class MyArraySizeException extends RuntimeException {
         super("Size is too big");
     }
 }
-
+//
 enum DayOfTheWeek {
     MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
 }
